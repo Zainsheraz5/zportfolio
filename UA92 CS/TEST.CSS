@@ -1,0 +1,87 @@
+* {
+    background-image: url(backiee-113080-landscape\ copy.jpg);
+    /* background-repeat: no-repeat; */
+
+    background-size: 100%;
+
+
+}
+
+#para123 {
+    color: antiquewhite;
+    background-color: blueviolet;
+    border-style: dotted double groove;
+    text-align: center;
+    color: aliceblue;
+}
+
+#para456 {
+    text-align: center;
+    color: aquamarine;
+    background-color: black;
+    border-style: double;
+    border-radius: 10%;
+    margin-top: auto;
+    margin-bottom: 20;
+    text-align: right;
+    color: aliceblue;
+
+}
+
+#para789 {
+    color: rgb(40, 89, 213);
+    background-color: rgb(239, 151, 19);
+    border-style: dotted double groove;
+    text-align: center;
+    color: aliceblue;
+    color: aliceblue;
+}
+
+.center {
+    text-align: center;
+    color: rgb(188, 122, 251);
+    color: aliceblue;
+}
+
+h1 {
+    text-align: right;
+    color: aliceblue;
+}
+
+p.center {
+    text-align: center;
+    color: aliceblue;
+
+}
+
+body {
+    background-color: aquamarine;
+    color: aliceblue;
+
+}
+
+nav.bar {
+    background-color: aqua;
+    color: aliceblue;
+}
+
+ul.navbar a {
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: auto;
+    color: aliceblue;
+}
+
+ul.navbar {
+    background-color: blueviolet;
+    margin: auto;
+    padding: 0.3;
+    color: aliceblue;
+    border-right: 1 em solid rgb(13, 182, 233);
+}
+
+a.link {
+    color: tomato;
+    color: aliceblue;
+}
